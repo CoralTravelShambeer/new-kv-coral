@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "assets": {
+    "assets/banner-background.webp": {
+      "path": "assets/banner-background.webp",
+      "sha256": "50f5a1dcd6d267f20543a4aec2603eef8b948727633046a5ec6753ca84612ba7",
+      "size": 264848,
+      "url": "https://b2ccdn.coral.ru/content/landing-pages/new-kv-coral/assets/banner-background.webp",
+      "managed": true
+    },
+    "assets/banner-hotel.webp": {
+      "path": "assets/banner-hotel.webp",
+      "sha256": "fd7f3774bba90f613e7a8dff62ec8c9c139277e7a3f47ce52797c7ad93013a27",
+      "size": 127752,
+      "url": "https://b2ccdn.coral.ru/content/landing-pages/new-kv-coral/assets/banner-hotel.webp",
+      "managed": true
+    }
+  }
+}
